@@ -77,6 +77,10 @@
     #copyright {
         font-size: 18px;
     }
+}
 
-
+@media (max-width: 479px) {
+    #main-content h2 {
+        font-size: 35px;
+    }
 }
