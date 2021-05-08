@@ -1,0 +1,37 @@
+.login-button {
+    width: 129px;
+    height: 46px;
+    border-radius:48px;
+    background-color: #c60c30;
+    border-color: #c60c30;
+    box-shadow: none;
+    margin-left: 148px;
+    margin-top: 60px;
+}
+.login-button:hover {
+    box-shadow: 5px 1px 5px 1px #c60c30;
+}
+.login-button span {
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+#main-content h2 {
+    font-size: 55px;
+    color: #c60c30;
+    font-weight: bold;
+    margin-left: 148px;
+}
+
+#main-content p {
+    margin-top: 15px;
+    display: block;
+    margin-left: 148px;
+    margin-top: 60px;
+    font-size: 16px;
+}
+#main-content img {
+    height: 450px;
+    margin-left: 45px;
+}

@@ -1,0 +1,81 @@
+#loginSection {
+    font-family: 'Montserrat', sans-serif;
+    width: 650px;
+    height: 424px;
+    background-color: #fafaf9;
+    border-radius: 60px;
+    margin: auto;
+    overflow: auto;
+    padding: 0 2rem;
+}
+hr {
+    margin-top: 25px;
+}
+#loginTitle {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #c60c30;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+#loginSection #usern {
+    margin-left: 40px;
+    margin-top: 60px;
+    font-weight: normal;
+    color: black;
+    font-size: 18px;
+}
+#pass {
+    margin-top: 25px;
+    margin-left: 40px;
+    font-weight: normal;
+    font-size: 18px;
+}
+#name {
+    background-color: #c60c30;
+    opacity: 55%;
+    border-radius: 60px;
+    margin-left: 38px;
+    color: black;
+}
+
+#password {
+    background-color: #c60c30;
+    opacity: 55%;
+    border-radius: 60px;
+    margin-left: 38px;
+    
+}
+#hello {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#name:hover, #name:focus {
+    background-color: #fff;
+}
+#password:hover, #name:focus {
+    background-color: #fff;
+}
+
+.gonderButton {
+    width: 189px;
+    height: 57px;
+    border-radius: 60px;
+    background-color: #c60c30;
+    margin-top: 60px;
+    margin-left: 210px;
+}
+.gonderButton:hover {
+    box-shadow: 5px 1px 5px 1px #c60c30;
+}
+.gonderButton span {
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+#instaTitle {
+    text-align: center;
+    color: #c60c30;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    margin-top: 120px;
+}
+
+#post1:hover, #post2:hover, #post3:hover, #post4:hover {
+    box-shadow: 5px 5px 5px 5px #ccc;
+
+}
+#post1 {
+    background: url('images/post1\ 1.png'), no-repeat;
+    width: 400px;
+    height: 400px;
+    margin-left: 115px;
+    margin-top: 60px;
+    background-position: center;
+    border: 1px solid #fff;
+    
+}
+
+#post2 {
+    background: url('images/post2\ 1.png'), no-repeat;
+    width: 400px;
+    height: 400px;
+    margin-top: 60px;
+    margin-left: 50px;
+    background-position: center;
+    border: 1px solid #fff;
+}
+
+#post3 {
+    width: 400px;
+    height: 400px;
+    margin-top: 60px;
+    margin-left: 115px;
+    background-position: center;
+    border: 1px solid #fff;
+    background: url('images/IMG_20210414_153248_163\ 1.png');
+}
+
+#post4 {
+    width: 400px;
+    margin-top: 60px;
+    height: 400px;
+    margin-left: 50px;
+    background-position: center;
+    border: 1px solid #fff;
+    background: url('images/20210410_145214_0000\ 1.png');
+}

@@ -1,0 +1,82 @@
+@media (max-width: 767px) {
+    .navbar-brand h1 {
+        font-size: 25px;
+        margin-top: 0;
+    }
+    
+    #nav-list a {
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    #xsimage {
+        background: url('images/g10xs.svg');
+        width: 275px;
+        height: 258px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #main-content h2{
+        margin-left: 5px;
+        font-size: 40px;
+    }
+    #main-content p {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .login-button {
+        margin-left: 154px;
+        margin-top: 30px;
+        width: 88px;
+        height: 37px;
+    }
+
+    #items {
+        margin-left: 20px;
+        margin-top: 110px;
+    }
+
+    #item1 img {
+        margin-left: -12px;
+    }
+    #item1Title, #item1 p {
+        margin-left: 100px;
+    }
+    
+    #item2 {
+        margin-top: 65px;
+    }
+
+    #item3 {
+        margin-left: -10px;
+    }
+
+    #loginSection {
+        width: 375px;
+        height: 390px;
+        margin-top: 60px;
+    }
+
+    #loginTitle {
+        font-size: 45px;
+    }
+
+    .gonderButton {
+        margin-left: 80px;
+        margin-top: 60px;
+        width: 169px;
+    }
+
+    #post1, #post2, #post3, #post4 {
+        margin-left: 0;
+    }
+
+    #copyright {
+        font-size: 18px;
+    }
+
+
+}

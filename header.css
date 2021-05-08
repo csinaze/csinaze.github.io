@@ -1,0 +1,36 @@
+#header-nav {
+    background-color: #c60c30;
+    border: 0;
+    border-radius: 0;
+}
+
+#logo-img {
+    background: url('../csinaze.github.io/images/logo-img.png');
+    width: 150px;
+    height: 150px;
+    margin-bottom: 15px;
+    
+}
+.navbar-brand h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight:600;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 38px;
+    margin-bottom: 0;
+    color: #fff;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+#nav-list a:hover, #nav-list a:focus {
+    font-weight:600;
+}
+
+#nav-list a {
+    font-weight:normal;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 29px;
+}
